@@ -10,9 +10,10 @@
 		"node": ">=18"
 	},
 	"dependencies": {
+		"cookie-parser": "^1.4.6",
 		"dotenv": "^16.3.1",
 		"express": "^4.17.1",
-		"express-session": "^1.17.2",
+		"express-session": "^1.17.3",
 		"mysql2": "^3.7.0"
 	}
 }
